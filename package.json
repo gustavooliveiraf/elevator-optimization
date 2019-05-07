@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliveiragustavo/avaliacao-tecnica-even3.git"
+  },
+  "author": "Gustavo Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliveiragustavo/avaliacao-tecnica-even3/issues"
+  },
+  "homepage": "https://github.com/oliveiragustavo/avaliacao-tecnica-even3#readme",
+  "dependencies": {
+    "collections": "^5.1.8"
+  }
+}
